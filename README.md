@@ -27,7 +27,7 @@ Table of Contents
 
 ## Verkle Tree
 ### Videos
-[The Verge: Converting the Ethereum state to Verkle trees - Guillaume Ballet, ](https://www.youtube.com/watch?v=F1Ne19Vew6w)
+[The Verge: Converting the Ethereum state to Verkle trees - Guillaume Ballet, Jul 2023](https://www.youtube.com/watch?v=F1Ne19Vew6w)  
 [DevCon: How Verkle Trees Make Ethereum Lean and Mean - Guillaume Ballet, Oct 2022](https://www.youtube.com/watch?v=Q7rStTKwuYs&t)  
 [The Verkle Tree Upgrade - Guillaume Ballet, Jun 2022](https://www.youtube.com/watch?v=4fL7hi8SZMs&t)  
 [Verkle Tries for Ethereum State - Dankrad Feist, Sep 2021](https://www.youtube.com/watch?v=RGJOQHzg3UQ&t)  
