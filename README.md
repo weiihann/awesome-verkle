@@ -16,7 +16,7 @@
 </div>
 
 ### Verkle Latest Update
-Get the latest updates on Verkle Tree's progress at the [official page](https://efdn.notion.site/efdn/Verkle-Tries-bf5391f9b3c949fdb375b0ec6a108a25).
+Get the latest updates on Verkle Tree's progress at the [Verkle Info page](https://verkle.info).
 
 Table of Contents
 =================
