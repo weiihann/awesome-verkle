@@ -53,7 +53,8 @@ Table of Contents
 [Notes on Merkle -> Verkle Transition](https://notes.ethereum.org/bdfbEEf6QcypV0Cv8dlqBw)  
 [Verkle Open Questions](https://notes.ethereum.org/@rudolf/verkle-questions)  
 [Verkle Trees - Proof creation/verification notes](https://hackmd.io/@jsign/vkt-proofs-implementation-notes)  
-[Sin7Y Tech Review (23): Verkle Tree For ETH](https://hackmd.io/@sin7y/rJZZy_mD9)
+[Sin7Y Tech Review (23): Verkle Tree For ETH](https://hackmd.io/@sin7y/rJZZy_mD9)  
+[Ignacio Hagopian Cohort 3 EPF Update 1 (up to 15)](https://hackmd.io/@jsign/cohort-three-update-1)
 
 ### Codes
 [Verkle Tree implementation in Golang](https://github.com/gballet/go-verkle)  
