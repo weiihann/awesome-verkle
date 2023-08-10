@@ -54,12 +54,13 @@ Table of Contents
 [Verkle Open Questions](https://notes.ethereum.org/@rudolf/verkle-questions)  
 [Verkle Trees - Proof creation/verification notes](https://hackmd.io/@jsign/vkt-proofs-implementation-notes)  
 [Sin7Y Tech Review (23): Verkle Tree For ETH](https://hackmd.io/@sin7y/rJZZy_mD9)  
-[Ignacio Hagopian Cohort 3 EPF Update 1 (up to 15)](https://hackmd.io/@jsign/cohort-three-update-1)
+[Ignacio Hagopian Cohort 3 EPF Update 1 (up to 15)](https://hackmd.io/@jsign/cohort-three-update-1)  
 [Verkle Tree Documentation](https://verkle.dev/docs/intro)  
+[ACDE #167 Verkle Updates, August 2023](https://docs.google.com/presentation/d/1Hgke4EHtjHBaYrIA6WbToGip6eho6INBgvwG76BIw1M/edit#slide=id.p)  
 
 ### Codes
 [Verkle Tree implementation in Golang](https://github.com/gballet/go-verkle)  
 [Beverly-hills testnet fork code (Geth)](https://github.com/gballet/go-ethereum/tree/beverly-hills-head)  
 [Verkle testnet](https://github.com/tanishqjasoria/verkle-testnet)  
-[Golang IPA](https://github.com/crate-crypto/go-ipa)  
+[Golang IPA](https://github.com/crate-crypto/go-ipa)  =
 [Verkle Tree Spec Implementation](https://github.com/crate-crypto/verkle-trie-ref) 
