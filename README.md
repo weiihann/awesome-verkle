@@ -26,6 +26,7 @@ Table of Contents
 
 ## Verkle Tree
 ### Videos
+[2023-10-31, Ava Labs Systems Seminar: Verkle Trees for Statelessness with Guillaume Ballet](https://www.youtube.com/watch?v=uGNmG3ZpWlU)  
 [2023-07-17, The Verge: Converting the Ethereum state to Verkle trees - Guillaume Ballet](https://www.youtube.com/watch?v=F1Ne19Vew6w)  
 [2023-06-10, ETHPrague2023: Stateless Ethereum - Guillaume Ballet](https://www.youtube.com/watch?v=GFiQXNZQcRw&list=PLRUSTVWJngidPVV_JC89YsomwtryPGV74&index=27) 
 [2023-06-06, Verkle Implementers Call #1 (and more)](https://www.youtube.com/watch?v=tAk0eNBqR8c&list=PL4cwHXAawZxpzxfiXGTOfAz263sQB1D2F&index=3)  
@@ -36,6 +37,8 @@ Table of Contents
 
 ### Readings
 #### 2023
+[Cryptography used in Verkle Tries - Kev](https://hackmd.io/PgsD0I0dQHOGuDx7D6o-dg#Cryptography-used-in-Verkle-Tries)
+[Verkle Trees - Preimages generation & distribution strategy](https://hackmd.io/@jsign/vkt-preimage-generation-and-distribution)  
 [Verkle Tree Research Progress - Yash Kamal Chaturvedi](https://etherworld.co/2023/04/07/verkle-trees-research-progress/) 
 [Verkle Implementers Call Notes](https://docs.google.com/document/d/1D2GtzI3q9btZd1ZOzCsWPsvzCaA-fCLZdXDtawoPUyM/edit)  
 [Notes on Merkle -> Verkle Transition](https://notes.ethereum.org/bdfbEEf6QcypV0Cv8dlqBw)  
@@ -62,7 +65,8 @@ Table of Contents
 [Verkle Trees (original paper) - John Kuszmaul](https://math.mit.edu/research/highschool/primes/materials/2018/Kuszmaul.pdf)  
 
 
-### Codes
+### Codes & Implementations
+[Kaustinen testnet](https://kaustinen-testnet.ethpandaops.io/)
 [Verkle Tree implementation in Golang](https://github.com/gballet/go-verkle)  
 [Beverly-hills testnet fork code (Geth)](https://github.com/gballet/go-ethereum/tree/beverly-hills-head)  
 [Verkle testnet](https://github.com/tanishqjasoria/verkle-testnet)  
