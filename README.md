@@ -37,9 +37,9 @@ Table of Contents
 
 ### Readings
 #### 2023
-[Cryptography used in Verkle Tries - Kev](https://hackmd.io/PgsD0I0dQHOGuDx7D6o-dg#Cryptography-used-in-Verkle-Tries)
+[Cryptography used in Verkle Tries - Kev](https://hackmd.io/PgsD0I0dQHOGuDx7D6o-dg#Cryptography-used-in-Verkle-Tries)  
 [Verkle Trees - Preimages generation & distribution strategy](https://hackmd.io/@jsign/vkt-preimage-generation-and-distribution)  
-[Verkle Tree Research Progress - Yash Kamal Chaturvedi](https://etherworld.co/2023/04/07/verkle-trees-research-progress/) 
+[Verkle Tree Research Progress - Yash Kamal Chaturvedi](https://etherworld.co/2023/04/07/verkle-trees-research-progress/)  
 [Verkle Implementers Call Notes](https://docs.google.com/document/d/1D2GtzI3q9btZd1ZOzCsWPsvzCaA-fCLZdXDtawoPUyM/edit)  
 [Notes on Merkle -> Verkle Transition](https://notes.ethereum.org/bdfbEEf6QcypV0Cv8dlqBw)  
 [Verkle Open Questions](https://notes.ethereum.org/@rudolf/verkle-questions)  
