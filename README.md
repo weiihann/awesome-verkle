@@ -37,6 +37,7 @@ Table of Contents
 
 ### Readings
 #### 2023
+[Verkle Sync Notes - Tanishq](https://hackmd.io/y3rNmxHmRQKHK7QK71NFzA?view)  
 [Cryptography used in Verkle Tries - Kev](https://hackmd.io/PgsD0I0dQHOGuDx7D6o-dg#Cryptography-used-in-Verkle-Tries)  
 [Verkle Trees - Preimages generation & distribution strategy](https://hackmd.io/@jsign/vkt-preimage-generation-and-distribution)  
 [Verkle Tree Research Progress - Yash Kamal Chaturvedi](https://etherworld.co/2023/04/07/verkle-trees-research-progress/)  
