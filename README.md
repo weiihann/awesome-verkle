@@ -68,7 +68,7 @@ Table of Contents
 
 
 ### Codes & Implementations
-[Kaustinen testnet](https://kaustinen-testnet.ethpandaops.io/)
+[Verkle devnets](https://github.com/ethpandaops/verkle-devnets)    
 [Verkle Tree implementation in Golang](https://github.com/gballet/go-verkle)  
 [Beverly-hills testnet fork code (Geth)](https://github.com/gballet/go-ethereum/tree/beverly-hills-head)  
 [Verkle testnet](https://github.com/tanishqjasoria/verkle-testnet)  
