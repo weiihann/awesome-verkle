@@ -26,9 +26,12 @@ Table of Contents
 
 ## Verkle Tree
 ### Videos
+[2024-05-04, Anatomy of a stateless client](https://www.youtube.com/watch?v=yFJxVSbQNcI)  
+[2024-04-20, Recipes for a Stateless Ethereum](https://www.youtube.com/watch?v=gfzkidjJf8g)  
+[2024-04-03, Verkle | EF Stateless Team | Week 7 Research](https://www.youtube.com/watch?v=H_M9bjwtMhU)  
 [2023-10-31, Ava Labs Systems Seminar: Verkle Trees for Statelessness with Guillaume Ballet](https://www.youtube.com/watch?v=uGNmG3ZpWlU)  
 [2023-07-17, The Verge: Converting the Ethereum state to Verkle trees - Guillaume Ballet](https://www.youtube.com/watch?v=F1Ne19Vew6w)  
-[2023-06-10, ETHPrague2023: Stateless Ethereum - Guillaume Ballet](https://www.youtube.com/watch?v=GFiQXNZQcRw&list=PLRUSTVWJngidPVV_JC89YsomwtryPGV74&index=27) 
+[2023-06-10, ETHPrague2023: Stateless Ethereum - Guillaume Ballet](https://www.youtube.com/watch?v=GFiQXNZQcRw&list=PLRUSTVWJngidPVV_JC89YsomwtryPGV74&index=27)  
 [2023-06-06, Verkle Implementers Call #1 (and more)](https://www.youtube.com/watch?v=tAk0eNBqR8c&list=PL4cwHXAawZxpzxfiXGTOfAz263sQB1D2F&index=3)  
 [2022-10-14, DevCon: How Verkle Trees Make Ethereum Lean and Mean - Guillaume Ballet](https://www.youtube.com/watch?v=Q7rStTKwuYs&t)  
 [2022-06-12, The Verkle Tree Upgrade - Guillaume Ballet](https://www.youtube.com/watch?v=WkXxbG6zLEw)  
@@ -36,6 +39,12 @@ Table of Contents
 [2021-09-06, Verkle Tries for Ethereum State - Dankrad Feist](https://www.youtube.com/watch?v=RGJOQHzg3UQ&t)  
 
 ### Readings
+#### 2024
+[Possible futures of the Ethereum protocol, part 4: The Verge - Vitalik Buterin](https://vitalik.eth.limo/general/2024/10/23/futures4.html)  
+[Anatomy of a Verkle proof - Ignacio Hagopian](https://ihagopian.com/posts/anatomy-of-a-verkle-proof)  
+[Deep dive into Circle-STARKs FFT - Ignacio Hagopian](https://ihagopian.com/posts/deep-dive-into-circle-starks-fft)
+
+
 #### 2023
 [Verkle Trees - David Salami](https://research.polytope.technology/verkle-trees)  
 [Verkle Sync Notes - Tanishq](https://hackmd.io/y3rNmxHmRQKHK7QK71NFzA?view)  
@@ -46,6 +55,7 @@ Table of Contents
 [Notes on Merkle -> Verkle Transition](https://notes.ethereum.org/bdfbEEf6QcypV0Cv8dlqBw)  
 [Verkle Open Questions](https://notes.ethereum.org/@rudolf/verkle-questions)  
 [Verkle Trees - Proof creation/verification notes](https://hackmd.io/@jsign/vkt-proofs-implementation-notes)  
+
 #### 2022
 [Verkle Tree EIP - Vitalik](https://notes.ethereum.org/@vbuterin/verkle_tree_eip)  
 [Sin7Y Tech Review (23): Verkle Tree For ETH](https://hackmd.io/@sin7y/rJZZy_mD9)  
